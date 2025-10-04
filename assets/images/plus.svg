@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg 
+    xmlns="http://www.w3.org/2000/svg" 
+    viewBox="0 0 24 24" 
+    width="25" 
+    height="25" 
+    fill="none">
+
+  <path 
+    fill-rule="evenodd" 
+    clip-rule="evenodd" 
+    d="M11 11V2H13V11H22V13H13V22H11V13H2V11H11Z" 
+    fill="white"/>
+</svg>
